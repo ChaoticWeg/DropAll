@@ -19,7 +19,7 @@ To select the item to drop, hover over the item in your inventory and press `Ctr
 DropAll is currently *in development*.  It is open to the public for free use with OSBot.  Feedback is always welcome, 
 though be aware that developmental builds are to be used *at your own risk*.
 
-DropAll is designed to drop all of the items as quickly as possible, though a primary goal is simulating human input.  
+DropAll is designed to drop all of the items as quickly as possible, though a primary goal is simulating human input.
 Using a macro script of any kind is strictly forbidden by Jagex, and can carry the punishment of a permanent ban for 
 your account.  DropAll's developers assume **no responsibility** for the irresponsible use of scripts including DropAll.
 Use this script wisely and at your own risk.
